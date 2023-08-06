@@ -22,31 +22,21 @@ Please find below a non-exhaustive list of Brave browser internal addresses.
 
 `brave://components/`
 
-[brave://components/](brave://components/)
-
 ### Experiments
 
 `brave://flags/`
-
-[brave://flags/](brave://flags/)
 
 ### Reward
 
 `brave://rewards/`
 
-[brave://rewards/](brave://rewards/)
-
 ### Rewards Internals
 
 `brave://rewards-internals/`
 
-[brave://rewards-internals/](brave://rewards-internals/)
-
 ### Settings
 
 `brave://settings/`
-
-[brave://settings/](brave://settings/)
 
 ## Externals
 
